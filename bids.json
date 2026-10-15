@@ -22,38 +22,6 @@
     "Sale_time": "9:00 AM",
     "CaseNo": "",
     "case_number": "",
-    "FileNo": "234651.101526.471020 FC",
-    "PropAddress": "",
-    "PropCity": "",
-    "PropZip": "",
-    "County": "Jackson County",
-    "OpeningBid": "NA*",
-    "vendor": "Ascribe",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "MS Firm",
-    "Sale_date": "10/15/2026",
-    "Sale_time": "9:00 AM",
-    "CaseNo": "",
-    "case_number": "",
-    "FileNo": "232756.101526.474837 FC",
-    "PropAddress": "",
-    "PropCity": "",
-    "PropZip": "",
-    "County": "Jefferson County",
-    "OpeningBid": "NA*",
-    "vendor": "Auction.com",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "MS Firm",
-    "Sale_date": "10/15/2026",
-    "Sale_time": "9:00 AM",
-    "CaseNo": "",
-    "case_number": "",
     "FileNo": "235368.101526.472417 FC",
     "PropAddress": "",
     "PropCity": "",
@@ -79,7 +47,8 @@
     "OpeningBid": "NA*",
     "vendor": "Ascribe",
     "status- DROP DOWN": "",
-    "Foreclosure Status": ""
+    "Foreclosure Status": "",
+    "continued_date": "10/22/2026"
   },
   {
     "Trustee": "MS Firm",
@@ -460,7 +429,7 @@
     "PropCity": "",
     "PropZip": "",
     "County": "Jackson County",
-    "OpeningBid": "0.00",
+    "OpeningBid": "187500.00",
     "vendor": "",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""

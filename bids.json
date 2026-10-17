@@ -1,23 +1,6 @@
 [
   {
     "Trustee": "MS Firm",
-    "Sale_date": "10/9/2026",
-    "Sale_time": "9:00 AM",
-    "CaseNo": "",
-    "case_number": "",
-    "FileNo": "235701.100926.473108 FC",
-    "PropAddress": "",
-    "PropCity": "",
-    "PropZip": "",
-    "County": "St. Louis County",
-    "OpeningBid": "NA*",
-    "vendor": "ServiceLink - Hudson & Marshall(Genesis)",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": "",
-    "continued_date": "10/16/2026"
-  },
-  {
-    "Trustee": "MS Firm",
     "Sale_date": "10/15/2026",
     "Sale_time": "9:00 AM",
     "CaseNo": "",
@@ -49,22 +32,6 @@
     "status- DROP DOWN": "",
     "Foreclosure Status": "",
     "continued_date": "10/22/2026"
-  },
-  {
-    "Trustee": "MS Firm",
-    "Sale_date": "10/16/2026",
-    "Sale_time": "12:00 PM",
-    "CaseNo": "25SL-CC04146",
-    "case_number": "25SL-CC04146",
-    "FileNo": "225371.456531 JFC",
-    "PropAddress": "",
-    "PropCity": "",
-    "PropZip": "",
-    "County": "St. Louis County",
-    "OpeningBid": "158840.00",
-    "vendor": "Auction.com",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
   },
   {
     "Trustee": "MS Firm",

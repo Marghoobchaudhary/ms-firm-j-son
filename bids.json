@@ -189,7 +189,7 @@
     "PropCity": "",
     "PropZip": "",
     "County": "Jackson County",
-    "OpeningBid": "166683.23",
+    "OpeningBid": "174008.04",
     "vendor": "ServiceLink - Hudson & Marshall(Genesis)",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
@@ -239,22 +239,6 @@
     "County": "St. Charles County",
     "OpeningBid": "NA*",
     "vendor": "ServiceLink - Hudson & Marshall(Genesis)",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "MS Firm",
-    "Sale_date": "10/27/2026",
-    "Sale_time": "9:00 AM",
-    "CaseNo": "",
-    "case_number": "",
-    "FileNo": "230214.102726.475088 FC",
-    "PropAddress": "",
-    "PropCity": "",
-    "PropZip": "",
-    "County": "St. Charles County",
-    "OpeningBid": "60549.24",
-    "vendor": "",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
   },

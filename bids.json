@@ -497,21 +497,5 @@
     "vendor": "Auction.com",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "MS Firm",
-    "Sale_date": "10/23/2026",
-    "Sale_time": "9:30 AM",
-    "CaseNo": "25-CI-400528",
-    "case_number": "25-CI-400528",
-    "FileNo": "225628.453173 KYFC",
-    "PropAddress": "",
-    "PropCity": "",
-    "PropZip": "",
-    "County": "Jefferson County",
-    "OpeningBid": "NA*",
-    "vendor": "Auction.com",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
   }
 ]

@@ -495,5 +495,53 @@
     "vendor": "",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
+  },
+  {
+    "Trustee": "MS Firm",
+    "Sale_date": "11/12/2026",
+    "Sale_time": "9:00 AM",
+    "CaseNo": "",
+    "case_number": "",
+    "FileNo": "214586.111226.474995 FC",
+    "PropAddress": "",
+    "PropCity": "",
+    "PropZip": "",
+    "County": "Jackson County",
+    "OpeningBid": "345713.79",
+    "vendor": "",
+    "status- DROP DOWN": "",
+    "Foreclosure Status": ""
+  },
+  {
+    "Trustee": "MS Firm",
+    "Sale_date": "11/12/2026",
+    "Sale_time": "9:00 AM",
+    "CaseNo": "",
+    "case_number": "",
+    "FileNo": "234326.111226.470291 FC",
+    "PropAddress": "",
+    "PropCity": "",
+    "PropZip": "",
+    "County": "Jefferson County",
+    "OpeningBid": "NA*",
+    "vendor": "Auction.com",
+    "status- DROP DOWN": "",
+    "Foreclosure Status": ""
+  },
+  {
+    "Trustee": "MS Firm",
+    "Sale_date": "11/12/2026",
+    "Sale_time": "12:00 PM",
+    "CaseNo": "24SL-CC04659",
+    "case_number": "24SL-CC04659",
+    "FileNo": "171042.449876 JFC",
+    "PropAddress": "",
+    "PropCity": "",
+    "PropZip": "",
+    "County": "St. Louis County",
+    "OpeningBid": "NA*",
+    "vendor": "Auction.com",
+    "status- DROP DOWN": "",
+    "Foreclosure Status": ""
   }
 ]

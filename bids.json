@@ -79,7 +79,8 @@
     "OpeningBid": "NA*",
     "vendor": "Auction.com",
     "status- DROP DOWN": "",
-    "Foreclosure Status": ""
+    "Foreclosure Status": "",
+    "continued_date": "11/10/2026"
   },
   {
     "Trustee": "MS Firm",
@@ -158,22 +159,6 @@
     "County": "St. Louis City",
     "OpeningBid": "93072.07",
     "vendor": "",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "MS Firm",
-    "Sale_date": "11/5/2026",
-    "Sale_time": "3:00 PM",
-    "CaseNo": "",
-    "case_number": "",
-    "FileNo": "230697.110526.474392 FC",
-    "PropAddress": "",
-    "PropCity": "",
-    "PropZip": "",
-    "County": "St. Louis City",
-    "OpeningBid": "NA*",
-    "vendor": "Auction.com",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
   },
@@ -311,22 +296,6 @@
     "Sale_time": "2:00 PM",
     "CaseNo": "",
     "case_number": "",
-    "FileNo": "232103.111026.466851 FC",
-    "PropAddress": "",
-    "PropCity": "",
-    "PropZip": "",
-    "County": "St. Louis County",
-    "OpeningBid": "NA*",
-    "vendor": "Auction.com",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "MS Firm",
-    "Sale_date": "11/10/2026",
-    "Sale_time": "2:00 PM",
-    "CaseNo": "",
-    "case_number": "",
     "FileNo": "235279.111026.472251 FC",
     "PropAddress": "",
     "PropCity": "",
@@ -446,22 +415,6 @@
     "County": "Jackson County",
     "OpeningBid": "164104.40",
     "vendor": "",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "MS Firm",
-    "Sale_date": "11/17/2026",
-    "Sale_time": "9:00 AM",
-    "CaseNo": "",
-    "case_number": "",
-    "FileNo": "88199.111726.471643 FC",
-    "PropAddress": "",
-    "PropCity": "",
-    "PropZip": "",
-    "County": "St. Charles County",
-    "OpeningBid": "NA*",
-    "vendor": "Auction.com",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
   },

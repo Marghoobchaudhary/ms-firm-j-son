@@ -19,23 +19,6 @@
   {
     "Trustee": "MS Firm",
     "Sale_date": "11/3/2026",
-    "Sale_time": "9:00 AM",
-    "CaseNo": "",
-    "case_number": "",
-    "FileNo": "202599.110326.474612 FC",
-    "PropAddress": "",
-    "PropCity": "",
-    "PropZip": "",
-    "County": "St. Charles County",
-    "OpeningBid": "NA*",
-    "vendor": "Auction.com",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": "",
-    "continued_date": "11/10/2026"
-  },
-  {
-    "Trustee": "MS Firm",
-    "Sale_date": "11/3/2026",
     "Sale_time": "2:00 PM",
     "CaseNo": "",
     "case_number": "",
@@ -110,7 +93,7 @@
     "PropCity": "",
     "PropZip": "",
     "County": "St. Louis County",
-    "OpeningBid": "148653.55",
+    "OpeningBid": "150083.55",
     "vendor": "",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""

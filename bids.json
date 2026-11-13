@@ -172,7 +172,7 @@
     "PropCity": "",
     "PropZip": "",
     "County": "St. Louis County",
-    "OpeningBid": "0.00",
+    "OpeningBid": "50430.00",
     "vendor": "",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
@@ -302,22 +302,6 @@
     "County": "St. Louis County",
     "OpeningBid": "NA*",
     "vendor": "Auction.com",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "MS Firm",
-    "Sale_date": "11/23/2026",
-    "Sale_time": "9:00 AM",
-    "CaseNo": "",
-    "case_number": "",
-    "FileNo": "224704.112326.474066 FC",
-    "PropAddress": "",
-    "PropCity": "",
-    "PropZip": "",
-    "County": "St. Louis City",
-    "OpeningBid": "NA*",
-    "vendor": "Ascribe",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
   },

@@ -27,7 +27,7 @@
     "PropCity": "",
     "PropZip": "",
     "County": "St. Louis City",
-    "OpeningBid": "0.00",
+    "OpeningBid": "165000.00",
     "vendor": "",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
@@ -190,7 +190,8 @@
     "OpeningBid": "NA*",
     "vendor": "Auction.com",
     "status- DROP DOWN": "",
-    "Foreclosure Status": ""
+    "Foreclosure Status": "",
+    "continued_date": "11/24/2026"
   },
   {
     "Trustee": "MS Firm",

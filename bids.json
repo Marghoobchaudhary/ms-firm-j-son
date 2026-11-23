@@ -71,22 +71,6 @@
     "Sale_time": "2:00 PM",
     "CaseNo": "",
     "case_number": "",
-    "FileNo": "189798.112426.475250 FC",
-    "PropAddress": "",
-    "PropCity": "",
-    "PropZip": "",
-    "County": "St. Louis County",
-    "OpeningBid": "NA*",
-    "vendor": "Hubzu(Altisource)",
-    "status- DROP DOWN": "",
-    "Foreclosure Status": ""
-  },
-  {
-    "Trustee": "MS Firm",
-    "Sale_date": "11/24/2026",
-    "Sale_time": "2:00 PM",
-    "CaseNo": "",
-    "case_number": "",
     "FileNo": "226316.112426.475290 FC",
     "PropAddress": "",
     "PropCity": "",
@@ -111,7 +95,8 @@
     "OpeningBid": "NA*",
     "vendor": "Auction.com",
     "status- DROP DOWN": "",
-    "Foreclosure Status": ""
+    "Foreclosure Status": "",
+    "continued_date": "12/01/2026"
   },
   {
     "Trustee": "MS Firm",
@@ -462,6 +447,38 @@
     "County": "St. Louis County",
     "OpeningBid": "NA*",
     "vendor": "ServiceLink - Hudson & Marshall(Genesis)",
+    "status- DROP DOWN": "",
+    "Foreclosure Status": ""
+  },
+  {
+    "Trustee": "MS Firm",
+    "Sale_date": "12/7/2026",
+    "Sale_time": "9:00 AM",
+    "CaseNo": "",
+    "case_number": "",
+    "FileNo": "234540.120726.475440 FC",
+    "PropAddress": "",
+    "PropCity": "",
+    "PropZip": "",
+    "County": "St. Louis City",
+    "OpeningBid": "NA*",
+    "vendor": "ServiceLink - Hudson & Marshall(Genesis)",
+    "status- DROP DOWN": "",
+    "Foreclosure Status": ""
+  },
+  {
+    "Trustee": "MS Firm",
+    "Sale_date": "12/7/2026",
+    "Sale_time": "3:00 PM",
+    "CaseNo": "",
+    "case_number": "",
+    "FileNo": "178628.120726.473907 FC",
+    "PropAddress": "",
+    "PropCity": "",
+    "PropZip": "",
+    "County": "Jackson County",
+    "OpeningBid": "NA*",
+    "vendor": "Auction.com",
     "status- DROP DOWN": "",
     "Foreclosure Status": ""
   }
